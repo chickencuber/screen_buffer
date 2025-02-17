@@ -1,0 +1,14 @@
+[package]
+name = "screen_buffer"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["chickencuber"]
+repository = "https://github.com/chickencuber/easy_menu"
+description = "a crate that adds a screen buffer"
+
+
+[dependencies]
+flat_matrix = "0.1.1"
+console = "0.15.10"
+
