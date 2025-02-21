@@ -1,10 +1,10 @@
 [package]
 name = "screen_buffer"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 authors = ["chickencuber"]
-repository = "https://github.com/chickencuber/easy_menu"
+repository = "https://github.com/chickencuber/screen_buffer"
 description = "a crate that adds a screen buffer"
 
 
